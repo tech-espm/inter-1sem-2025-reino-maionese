@@ -9,12 +9,12 @@
 ### 2025-01
 
 ## Integrantes
-- [Pablo Perez Schmekel](https://github.com/Dregoncry)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
+- [Pablo Schmekel](https://github.com/Dregoncry)
+- [Gustavo Gomes](https://github.com/GustavoG0m3s)
+- [Luccas Toffano](https://github.com/toffan0)
+- [Julia Egute](https://github.com/juliaegute)
+- [Ana Proenca](https://github.com/anaproenca02)
+- [Pedro Perroni](https://github.com/PedroPerroni)
 
 ## Descrição do Projeto
 
