@@ -9,7 +9,7 @@
 ### 2025-01
 
 ## Integrantes
-- [Nome](https://github.com/xxx)
+- [Pablo Perez Schmekel](https://github.com/Dregoncry)
 - [Nome](https://github.com/xxx)
 - [Nome](https://github.com/xxx)
 - [Nome](https://github.com/xxx)
